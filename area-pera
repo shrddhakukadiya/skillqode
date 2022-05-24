@@ -1,0 +1,8 @@
+void main()
+{
+  dynamic side=2,area,peramiter;
+  area=side*side;
+  print('area $area');
+  peramiter=4*side;
+  print('perameter $peramiter');
+}
